@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-01_1226",
-    "currentPage": "staffrsb.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,7 +50,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 63,
+    "uniqCompNum": 66,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -788,6 +788,22 @@
               }
             ]
           }
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success\" href=\"http://cp.usastreams.com/html5-player-barra-fino.aspx?stream=http://78.129.224.21:5613/;&fondo=05&formato=mpeg&color=14&titulo=2&autoStart=1&vol=5&nombre=Radio+Santa+Biblia\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"socicon socicon-googleplaymusic mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 70px;\"></span>Click para Escuchar Nuestra Radio Online</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "s4E4sGKCul",
+          "_anchor": "content8-1s",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         },
         {
           "alias": false,

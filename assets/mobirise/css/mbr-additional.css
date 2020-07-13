@@ -1347,6 +1347,11 @@ section.lazy-placeholder:after {
 .cid-rJqJW65DKj .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-s4E4sGKCul {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #000000;
+}
 .cid-rS2adgPj15 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1838,7 +1843,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #f7ed4a;
+  background-color: #333333;
 }
 .cid-rS2XKkNXYO button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2256,7 +2261,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #f7ed4a;
+  background-color: #333333;
 }
 .cid-rS2XKkNXYO button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
